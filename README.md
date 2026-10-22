@@ -34,7 +34,3 @@ This project involves:
 - Data Analytics  
 
 
-
-📧 [Email](youssefyaser561974@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/youssef-yasser-26b810316/)
